@@ -35,5 +35,3 @@ https://github.com/huhx0015/HXAudioPlayer
 https://github.com/halilozercan/BetterVideoPlayer
 (影片)
 
-https://github.com/ksvc-backup/KSYMediaPlayerKit_Android
-(影片)
