@@ -37,3 +37,6 @@ https://github.com/halilozercan/BetterVideoPlayer
 
 https://github.com/xinpengfei520/MediaPlayer
 (影片)
+
+https://github.com/Jeet97/Video-Player
+(影片 無Demo)
