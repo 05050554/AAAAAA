@@ -1,36 +1,39 @@
 https://github.com/jeasonlzy/ImagePicker
-(³o­ÓÆZ²rªº ¦ı¤¶­±¦³ÂI¶§¬K ¬ÛÃ¯ )**
+(é€™å€‹è »çŒ›çš„ ä½†ä»‹é¢æœ‰é»é™½æ˜¥ ç›¸ç°¿ )**
 
 https://github.com/D-clock/AndroidAlbum
-(¬ÛÃ¯)
+(ç›¸ç°¿)
 
 https://github.com/my-university-labs/NewFeelings
-(¬ÛÃ¯)
+(ç›¸ç°¿)
 JASON
 https://github.com/ray00178/RZAlbum-Java
-(¬ÛÃ¯)
+(ç›¸ç°¿)
 
 https://github.com/xiaoyanger0825/NiceVieoPlayer
-(´¶³qªº¼v¤ù¼·©ñ¾¹)
+(æ™®é€šçš„å½±ç‰‡æ’¥æ”¾å™¨)
 
 https://github.com/jiajunhui/PlayerBase
-(¼v¤ù)
+(å½±ç‰‡)
 
 https://github.com/ksvc-backup/KSYMediaPlayerKit_Android
-(¼v¤ù)**
+(å½±ç‰‡)**
 
 https://github.com/PaulWoitaschek/AndroidPlayer
-(¼v¤ù)
+(å½±ç‰‡)
 
 https://github.com/tu-jiong/Simple-MediaPlayer
-(¼v¤ù)
+(å½±ç‰‡)
 
 
 https://github.com/khizar1556/MKVideoPlayer
-(¼v¤ù)**
+(å½±ç‰‡)**
 
 https://github.com/huhx0015/HXAudioPlayer
-(¦h¥\¯à)
+(å¤šåŠŸèƒ½)
 ---------------------------------New--------------------------------------------------------
 https://github.com/halilozercan/BetterVideoPlayer
-(¼v¤ù)
+(å½±ç‰‡)
+
+https://github.com/ksvc-backup/KSYMediaPlayerKit_Android
+(å½±ç‰‡)
