@@ -35,3 +35,5 @@ https://github.com/huhx0015/HXAudioPlayer
 https://github.com/halilozercan/BetterVideoPlayer
 (影片)
 
+https://github.com/xinpengfei520/MediaPlayer
+(影片)
